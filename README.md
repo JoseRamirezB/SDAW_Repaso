@@ -128,7 +128,7 @@ repositorio.
 ## Autor
 
 **José Luis Ramírez Barrios**
-## Estructura del proyecto
+## Estructura del proyecto de repaso
 
     /SDAW_repaso
     ├── index.html       # Página principal
