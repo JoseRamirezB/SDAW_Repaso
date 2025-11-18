@@ -130,7 +130,7 @@ repositorio.
 **José Luis Ramírez Barrios**
 ## Estructura del proyecto de repaso
 
-    /SDAW_8951
+    /SDAW_repaso
     ├── index.html       # Página principal
     ├── script.js        # Código JavaScript que muestra el mensaje
     ├── server.js        # Servidor con Express
