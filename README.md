@@ -128,3 +128,14 @@ repositorio.
 ## Autor
 
 **José Luis Ramírez Barrios**
+## Estructura del proyecto
+
+    /SDAW_repaso
+    ├── index.html       # Página principal
+    ├── script.js        # Código JavaScript que muestra el mensaje
+    ├── server.js        # Servidor con Express
+    ├── package.json     # Configuración del proyecto Node.js
+    ├── .gitignore       # Archivos ignorados por Git
+    └── README.md        # Documentación del proyecto
+
+------------------------------------------------------------------------
