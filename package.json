@@ -1,0 +1,16 @@
+{
+  "name": "sdaw_8951",
+  "version": "1.0.0",
+  "description": "Proyecto base SDAW del estudiante 8951",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

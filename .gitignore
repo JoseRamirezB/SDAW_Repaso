@@ -1,0 +1,13 @@
+# Ignorar dependencias
+node_modules/
+
+# Archivos de logs
+npm-debug.log
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales o de entorno
+.env
