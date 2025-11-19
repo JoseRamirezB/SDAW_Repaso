@@ -140,6 +140,6 @@ repositorio.
 
 ------------------------------------------------------------------------
 
-```javascript
+```js
 const repaso = document.querySelector(".repaso");
 ```
