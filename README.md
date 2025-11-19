@@ -1,4 +1,4 @@
-# Proyecto SDAW_8951
+# Proyecto SDAW_8951 de repaso
 
 ## Descripción del proyecto de repaso
 
@@ -139,3 +139,7 @@ repositorio.
     └── README.md        # Documentación del proyecto
 
 ------------------------------------------------------------------------
+
+```javascript
+const repaso = document.querySelector(".repaso");
+```
